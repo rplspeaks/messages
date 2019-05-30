@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Note to Visitors
 
-You can use the [editor on GitHub](https://github.com/rplspeaks/messages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Welcome to the Official Blog cum Vlog of R Paulaseer Lawrie (Gurudev Shri Lahari Krishna). This blog aims to digitally publish the sermons of R Paulaseer Lawrie (Gurudev Shri Lahari Krishna). This is not copyrighted for the sole purpose to reach genuine seekers for these messages. Its expected that only thirsty souls - and not vandals and plagiarists - visit this blog and access information. The same note applies to our Youtube Channel.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## About R Paulaseer Lawrie
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+R Paulaseer Lawrie (Gurudev Shri Lahari Krishna) hails from South TamilNadu of South India, from the land where the river Palar, Cauvery and Thamirabharani flow, and from where as foretold in Srimad Bhagavatham the last avatar would rise on the scene. 
 
-```markdown
-Syntax highlighted code block
+He preached and propogated the truth that there is one GOD in spite of the fact that HE is addressed by different names throughout the world by different religions. His clarion call was to personally experience GOD.
 
-# Header 1
-## Header 2
-### Header 3
+He toured the world many times explaining the people the truth of the Godhead of the Supreme Sacrifice and the need of humility. His teachings are universally accepted and revered by innumerable followers around the world. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rplspeaks/messages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In this Blog cum Vlog (video blog), you find Him inviting you to surrender yourself to become the subject of GOD.
